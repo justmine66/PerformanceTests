@@ -9,5 +9,5 @@
 
 ## 启动命令
 dotnet PerformanceTests.dll -p 4 -t 2000
->-p|--parallels 并行数，-t|--throughput 吞吐量
+>-p | --parallels 并行数，-t | --throughput 吞吐量
 
