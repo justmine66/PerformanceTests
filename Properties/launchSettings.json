@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PerformanceTests": {
+      "commandName": "Project",
+      "commandLineArgs": "-p 4 -t 2000"
+    }
+  }
+}
